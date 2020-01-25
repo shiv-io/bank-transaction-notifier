@@ -1,0 +1,4 @@
+plaid_python==2.4.0
+Flask==1.0.2
+python-telegram-bot==12.0.0b1
+pandas
